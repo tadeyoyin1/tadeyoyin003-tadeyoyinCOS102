@@ -1,6 +1,0 @@
-state = input("Enter your state of origin:")
-print("Your state of origin is :", state)
-print ("The first character is:",state[0])
-print ("The character starting from 3rd to 5th are:", state[2:5])
-print ("The string starting from 3rd character is :", state [2:])
-print ("State of origin two times", state * 2)
